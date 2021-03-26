@@ -19,7 +19,7 @@ $ cd BrutuS3
 ## Usage  
 #### Create a wordlist  
 ```
-$ cewl https://target.com -m 4 -w wordlist.txt
+$ cewl https://target.com -m 3 -w wordlist.txt
 ```
 #### OR  
 ```
